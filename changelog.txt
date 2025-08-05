@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: Aug. 5 2025
+  Info:
+    - Added changelog.txt
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: Aug. 5 2025
+  Info:
+    - Added thumbnail.png
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: Aug. 5 2025
+  Major Features:
+    - Initial release
+    - Metal and Stars + Secretas&Frozeta
+      - Added Overclock Module 4
+      - Added Elite Module Productivity infinite research, for T4 module crafting productivity
+    - Metal and Stars + Dea Dia System
+      - Added Stationkeeping Modules to module productivity infinite researches (including T4)
