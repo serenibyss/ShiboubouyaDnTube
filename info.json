@@ -1,0 +1,15 @@
+{
+  "name": "shiboubouya-dn-tube",
+  "version": "0.0.4",
+  "title": "Shiboubouya DN Tube",
+  "author": "serenibyss",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age",
+    "? dea-dia-system",
+    "? metal-and-stars",
+    "? secretas"
+  ],
+  "description": "Adds lots of various compatibility patches to mods included in the Enable All Planet Mods mod"
+}
